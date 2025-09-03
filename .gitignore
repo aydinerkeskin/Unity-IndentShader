@@ -21,7 +21,8 @@ UnityVS/
 UnityVS.meta
 
 
-ProjectVersion.txt
+# ProjectVersion.txt is tracked to specify the Unity editor version
+#ProjectVersion.txt
 
 # Unity3D generated meta files
 *.pidb.meta
